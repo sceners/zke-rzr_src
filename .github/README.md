@@ -1,10 +1,13 @@
 # Example Razor 1911 intro by Nerve
 
+#### Written in 2012 October.
+
+
 [WinASM IDE recommendation](https://www.winasm.org/).
 
 Note `razor_intro.exe` is not included as it [flags some false positive alerts](https://www.virustotal.com/gui/file/5dd8a17d5a7bed02ff037e70905178eeab7479a2c928555d80f81e3e8f6e5484).
 
-[The original archive](https://defacto2.net/f/b03821).
+[Original archive](https://defacto2.net/f/b03821).
 
 ---
 
